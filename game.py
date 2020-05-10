@@ -91,7 +91,4 @@ class Round:
             return player_1.name, self.chips_on_table
 
 
-if __name__ == "__main__":
-    game_1 = Game()
-    game_1.start()
 
